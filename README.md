@@ -25,7 +25,7 @@ var p5Inst = new p5(null, 'sketch');
 <link href="spritelab.css" rel="stylesheet" type="text/css">
 ```
 - cleanup by removing the unecessary files such files should include
-  - assets/http/*
+  - assets/http (yes the whole folder directory)
   - gamelab.css
   - gamelab-api.js
 
