@@ -27,3 +27,6 @@ var p5Inst = new p5(null, 'sketch');
 and with that you should be all set! since this project doesn't rely too much on CDO's backend all you need is an effective way of hosting your static files github can do that for you and not only that give you a runnable link within a project domain <br>
 or <br>
 you could relax your browser restrictions to allow local asset files to load in directly from your modified html file if you so choose
+
+## Example
+a demo can be found [here](https://varrience.github.io/Spritelab/Untitled%20Project/index.html) of what your project should be doing and a proof of concept that the API does indeed work
