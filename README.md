@@ -24,6 +24,10 @@ var p5Inst = new p5(null, 'sketch');
 <script src="spritelab-api.js"></script>
 <link href="spritelab.css" rel="stylesheet" type="text/css">
 ```
+- cleanup by removing the unecessary files such files should include
+  - assets/http/*
+  - gamelab.css
+  - gamelab-api.js
 and with that you should be all set! since this project doesn't rely too much on CDO's backend all you need is an effective way of hosting your static files github can do that for you and not only that give you a runnable link within a project domain <br>
 or <br>
 you could relax your browser restrictions to allow local asset files to load in directly from your modified html file if you so choose
